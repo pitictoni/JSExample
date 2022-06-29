@@ -34,10 +34,32 @@ function populateSelectorWithTableData2(){
     }
 }
 
-window.onload = (event) => {
-    console.log(document.getElementById('head').innerHTML);
-    populateSelector(document.getElementById('head').innerHTML);
-    populateSelectorWithTableData();
-    populateSelectorWithTableData2();
+function pushedButton(){
+    const selector = document.getElementById("persons");
+    let urlWithParams = "Misc/result.html?";
+    let i=0;
+    for (const option of selector){
+        if (!option.selected ){
+           urlWithParams = urlWithParams + option.text + "&";
+        }
+        else{
+            urlWithParams = urlWithParams + '*' + option.text + "&";
 
+        }
+    }
+    document.location.href = urlWithParams;
+}
+
+function setButton(){
+    const button = document.createElement("button");
+    button.innerText = "Push me";
+    button.addEventListener("click", pushedButton);
+    document.body.appendChild(button);
+}
+
+
+
+window.onload = (event) => {
+    populateSelectorWithTableData2();
+    setButton();
 };

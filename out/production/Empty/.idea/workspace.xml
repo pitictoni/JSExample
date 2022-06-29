@@ -4,24 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0d8579a-faad-4ea3-b3d3-f738a545fbb7" name="Changes" comment="JS dom&#10;adaugare si acces de elemente pe HTML din JS&#10;pasare de parametri pe alta pagina &quot;de mana&quot;">
-      <change afterPath="$PROJECT_DIR$/Misc/result.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Empty/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Empty/.idea/libraries/firstbird_backbone_gson_2_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Empty/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Empty/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Empty/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Empty/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Empty/Empty.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Empty/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Empty/Service.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Empty/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Empty/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Empty/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/result.html" afterDir="false" />
+    <list default="true" id="f0d8579a-faad-4ea3-b3d3-f738a545fbb7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/firstbird_backbone_gson_2_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Empty.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,11 +25,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="CSS File" />
         <option value="Class" />
-        <option value="package.json" />
-        <option value="HTML File" />
-        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -77,12 +69,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Practica BIT\Empty\Misc" />
-    </key>
-  </component>
-  <component name="RunManager" selected="JavaScript Debug.result.html">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Empty" />
@@ -93,14 +80,10 @@
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Empty/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="result.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Empty/Misc/result.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.result.html" />
-        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -112,16 +95,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656483064252</updated>
-      <workItem from="1656483065643" duration="10998000" />
+      <workItem from="1656483065643" duration="3535000" />
     </task>
-    <task id="LOCAL-00001" summary="html, sample CSS, JS">
-      <created>1656490659162</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1656490659162</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,10 +112,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="html, sample CSS, JS" />
-    <MESSAGE value="JS dom&#10;adaugare si acces de elemente pe HTML din JS&#10;pasare de parametri pe alta pagina &quot;de mana&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="JS dom&#10;adaugare si acces de elemente pe HTML din JS&#10;pasare de parametri pe alta pagina &quot;de mana&quot;" />
   </component>
 </project>
